@@ -1,5 +1,5 @@
 Lab report 1
-Step 1: Search “VScode download” on Google and click on the official VScode website, which will look like this:
+Step 1: Search “VScode download” on Google and click on the official VScode website at https://code.visualstudio.com/download, which will look like this:
 ![image](https://user-images.githubusercontent.com/130394449/233861743-bd3a43b9-0674-4b21-a97d-af8ed3a0964e.png)
 Step 2: Click on the correct download button based on the operating system on your computer. Download and install the VScode. After successfully installed the VScode, open the VScode and it will look like this:
 ![image](https://user-images.githubusercontent.com/130394449/233861820-d700831c-9299-4cfa-bb1a-0c7c2891a218.png)
