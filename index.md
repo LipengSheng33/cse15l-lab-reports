@@ -9,6 +9,7 @@ Step 2: Click on the correct download button based on the operating system on yo
 Step 3: Find your CSE15L account in this link: https://sdacs.ucsd.edu/~icc/index.php, look up your cse15l course account by typing in your UCSD student username and student ID and click on submit. The username that starts with "cs15lsp23" is your CSE15L account. Then you need to reset your password at https://password.ucsd.edu/GetUser.aspx by typing in your CSE15l account your just looked up in the "Enter your username:" box, clicked on continue, click on "I want to reset my course-specific account password, click on "yes" on the page that says "confirm your email address" and you will receive an instruction on how to reset your password in your school email. 
 
 Step 4: Open your terminal in VSCode and type “ssh “+ your account+”@ieng6.ucsd.edu” and push the return button on your keyboard. You will see this:
+
 ![Capture1](https://user-images.githubusercontent.com/130394449/234067005-04b4452c-48de-4e9e-8d8e-1ed8e8f5f07d.PNG)
 
 Then type “yes” and push the return button. They will ask you to enter your password like this:
