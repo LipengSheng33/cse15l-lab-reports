@@ -22,3 +22,7 @@ I did not get my password right at first, so the terminal keeps asking me to ent
 
 Step 5: Try some command in your terminal such as “cd ~”, “cd”, “ls -lat” and “ls -a”. Push the enter button on your keyboard each time you complete a command. You will see the output of your command in your terminal just like this:
 ![image](https://user-images.githubusercontent.com/130394449/233861926-11216c1f-6f5f-45c2-aff4-f0901dddcd50.png)
+
+Try some more command such as "cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/" and "cat /home/linux/ieng6/cs15lsp23/public/hello.txt". You will see something like this:
+![Capture3](https://user-images.githubusercontent.com/130394449/234068958-4d5028e3-e340-4f8d-89bf-736450d8d706.PNG)
+The "cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/" command copy the hello.txt file to the remote filesystem and the "cat /home/linux/ieng6/cs15lsp23/public/hello.txt" read the file and print out the content of the file.
