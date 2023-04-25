@@ -1,6 +1,7 @@
 Part 1:
 Step 1: create the code like this:
 ![Capture](https://user-images.githubusercontent.com/130394449/234158985-8afc222d-0fa2-45e6-b744-7c82b418bbd3.PNG)
+
 Step 2: open the terminal in visual studio code and enter the command "javac Server.java StringServer.java" and "java StringServer 4000" and you will get the url to the website you created like this:
 
 ![Capture1](https://user-images.githubusercontent.com/130394449/234159174-564b6475-acbe-429c-9c21-5b9feab3fc8d.PNG)
