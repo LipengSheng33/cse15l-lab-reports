@@ -18,3 +18,55 @@ Then we will change the url by adding "/add-message?s=How are you". You will see
 This main method and handlerRequest method are called and the url you enter in the browser is taken as the argument. The str field equals to the output shown in the website, which changes to "Hello\nHow are you" right now. The Port field equals to 4000.
 
 Part 2:
+A failure-inducing input:
+```
+  @Test
+  public void testReversed1() {
+    int[] input1 = { 5,8,7,6};
+    assertArrayEquals(ArrayExamples.reversed(input1), new int[]{8,7,6,5});
+  }
+  ```
+
+An input that doesn’t induce a failure:
+```
+  @Test
+  public void testReversed2() {
+    int[] input1 = {0,0,0,0};
+    assertArrayEquals(ArrayExamples.reversed(input1), new int[]{0,0,0,0});
+  }
+  ```
+
+The symptom:
+
+![Capture](https://user-images.githubusercontent.com/130394449/234175766-2b55c504-aba7-4b94-8882-c01747d720a1.PNG)
+
+The bug:
+before changes:
+```
+  static int[] reversed(int[] arr) {
+    int[] newArray = new int[arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = newArray[arr.length - i - 1];
+    }
+    return arr;
+  }
+  ```
+ 
+ after changes:
+ ```                           
+ static int[] reversed(int[] arr) {
+    int[] newArray = new int[arr.length];
+    int j=0;
+    for(int i = arr.length-1; i >=0; i -= 1) {
+      newArray[j] = arr[i];
+      j++;
+    }
+    return newArray;
+  }
+  ```
+My code works because it sets the last elements of the original array as the first element of the new array. The second last element of the original array as the second elements of the new array. So on and so forth.
+
+part 3:
+I learned about debugging. I learned how to find bugs and fix bugs.
+I learned about how to make my own URL with java code.
+I learned different parts of an URL and their meanings.
