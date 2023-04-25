@@ -6,6 +6,7 @@ Step 2: open the terminal in visual studio code and enter the command "javac Ser
 ![Capture1](https://user-images.githubusercontent.com/130394449/234159174-564b6475-acbe-429c-9c21-5b9feab3fc8d.PNG)
 
 Step 3: enter the URL in a browser like this:
+
 ![Capture2](https://user-images.githubusercontent.com/130394449/234159408-ca34c354-d7bc-476c-b970-1fa19aa8a7c5.PNG)
 
 This main method and handlerRequest method are called and the url you enter in the browser is taken as the argument. The str field equals to the output shown in the website, which is nothing right now. The Port field equals to 4000.
