@@ -23,7 +23,7 @@ A failure-inducing input:
   @Test
   public void testReversed1() {
     int[] input1 = { 5,8,7,6};
-    assertArrayEquals(ArrayExamples.reversed(input1), new int[]{8,7,6,5});
+    assertArrayEquals(ArrayExamples.reversed(input1), new int[]{6,7,8,5});
   }
   ```
 
@@ -38,7 +38,8 @@ An input that doesn’t induce a failure:
 
 The symptom:
 
-![Capture](https://user-images.githubusercontent.com/130394449/234175766-2b55c504-aba7-4b94-8882-c01747d720a1.PNG)
+<img width="1017" alt="Screen Shot 2023-04-24 at 10 45 45 PM" src="https://user-images.githubusercontent.com/130394449/234185238-9ee6f9b9-b30f-4d78-8fe4-70922e76f305.png">
+
 
 The bug:
 before changes:
