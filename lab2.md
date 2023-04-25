@@ -14,9 +14,12 @@ This main method and handlerRequest method are called and the url you enter in t
 You will see nothing at first. Then you can change your url by adding "/add-message?s=<string>" to the end of the url. We will try to add "/add-message?s=Hello" first and you will see "Hello" pop up in the website like this:
   
 ![Capture3](https://user-images.githubusercontent.com/130394449/234159796-a57502b1-8699-4c9e-bcb3-6080bc846a0f.PNG)
+
 This main method and handlerRequest method are called and the url you enter in the browser is taken as the argument. The str field equals to the output shown in the website, which changes to "Hello" right now. The Port field equals to 4000.
 Then we will change the url by adding "/add-message?s=How are you". You will see "Hello" and "How are you" poping up on the line below "Hello" like this:
+  
 ![Capture4](https://user-images.githubusercontent.com/130394449/234160386-ffb5840d-38fb-4358-8a5f-9f9e4e70cd34.PNG)
+
 This main method and handlerRequest method are called and the url you enter in the browser is taken as the argument. The str field equals to the output shown in the website, which changes to "Hello\nHow are you" right now. The Port field equals to 4000.
 
 Part 2:
