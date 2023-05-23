@@ -42,7 +42,7 @@ Step 10: As prompted by the comment of this code, we just need to change index1 
 
 <img width="425" alt="Screen Shot 2023-05-22 at 6 13 10 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/2b39cc33-59ea-403f-9dab-b60664ece3d5">
 
-Step 11: press <I> on the keyboard to enter the Insert mode and you will see "-- INSERT --" at the bottom of the terminal, which means that you are in the insert mode like this:
+Step 11: press ```<I>``` on the keyboard to enter the Insert mode and you will see "-- INSERT --" at the bottom of the terminal, which means that you are in the insert mode like this:
 
 <img width="626" alt="Screen Shot 2023-05-22 at 6 15 22 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/ad5be647-95fd-4e03-8beb-0ef206304efb">
 
@@ -50,7 +50,7 @@ Do not move the cursor and type in "2" to fix the bug of this java document like
 
 <img width="706" alt="Screen Shot 2023-05-22 at 6 17 20 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/338bb441-580f-46f5-b56e-8cde1005a785">
 
-Step 12: press <esc> on the keyboard to exit the insert mode and then type in ":wq" and press <return> on the keyboard to save and exit the vim.
+Step 12: press ```<esc>``` on the keyboard to exit the insert mode and then type in ":wq" and press ```<return>``` on the keyboard to save and exit the vim.
 
 Step 13: now we run the test again the same way we did in Step 8 and we will see that we pass the test like this:
 
