@@ -161,3 +161,8 @@ $ find technical/government/Gen_Account_Office/Statements_Feb28-1997_volume.txt
 ```
 
 The above command is searching for a specific file technical/government/Gen_Account_Office/Statements_Feb28-1997_volume.txt  and delete it. The find -delete command is useful when we want to find a specific file to delete.
+
+
+Citation: I find all the find command options from chatGPT with the prompt "find command line options". Here is the screenshot of the chatGPT page I got my answers from:
+
+![Capture2](https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/f9610801-33a3-4d02-a51b-08067a69023c)
