@@ -29,4 +29,5 @@ The input that the reverseInPlace took as an argument is an array of integers {5
 Therefore, I expect 8 at index 2, but instead the result is 7.
 
 TA answer:
+What happens when i is larger than half of the length of the array?
 Try saving the first element as an int type and then save the value of the last element of the array to the first element and then save the value of the int type to the last element. The for loop should only loop through half the length of the array because we are changing the values from the start and the end at the same time and we do not want to change the value again.
