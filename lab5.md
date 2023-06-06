@@ -43,3 +43,13 @@ static void reverseInPlace2(int[] arr) {
     }
   }
   ```
+
+My result after calling my bash scripts that runs the jUnit test:
+
+![Capture2](https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/a0517f32-4709-4243-81ef-a935e249d8fa)
+
+This is a screenshot of my bash script:
+
+![Capture3](https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/edbf1f9c-593a-427e-8f40-4b244e9030a7)
+
+The bug of the original code is that it did not save the values of the original array so that after the midpoint, it cannot get the values of the first half of the array.
