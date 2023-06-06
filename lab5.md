@@ -1,3 +1,5 @@
+Part I:
+
 Student question:
 I am using the Windows operating system. I have 1 failure after running the jUnit test on the reverseInPlace method in the ArrayExamples.java. There might be something wrong with my implementation of the reverseInPlace method. 
 This is the code:
@@ -52,4 +54,8 @@ This is a screenshot of my bash script:
 
 ![Capture3](https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/edbf1f9c-593a-427e-8f40-4b244e9030a7)
 
-The bug of the original code is that it did not save the values of the original array so that after the midpoint, it cannot get the values of the first half of the array.
+The bug of the original code is that it did not save the values of the original array so that after the midpoint, it cannot get the values of the first half of the array. We can see from the terminal output above when the Junit test produced a failure that it was the element at index 2 that went wrong, which is the first element after the midpoint. Therefore, I found out that the code went wrong after the for loop reach the midpoint.
+
+Part II:
+
+The most exciting thing I learned during the second half of this quarter that I did not know before is the bash script. With the bash script, I can run so many command at the same time without typing them into the terminal one by one, which is much more convienient. Also, bash is a very concise and interesting programming language and I really like writing it.
