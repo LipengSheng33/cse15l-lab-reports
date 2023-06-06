@@ -1,4 +1,5 @@
-Hello, I am using the Windows operating system. I have 1 failure after running the jUnit test on the reverseInPlace method in the ArrayExamples.java. There might be something wrong with my implementation of the reverseInPlace method. 
+Student question:
+I am using the Windows operating system. I have 1 failure after running the jUnit test on the reverseInPlace method in the ArrayExamples.java. There might be something wrong with my implementation of the reverseInPlace method. 
 This is the code:
 
 ```
@@ -26,3 +27,6 @@ static void reverseInPlace(int[] arr) {
 
 The input that the reverseInPlace took as an argument is an array of integers {5, 8, 7, 6}. After calling the reverseInPlace method, it should return 6, 7, 8, 5.
 Therefore, I expect 8 at index 2, but instead the result is 7.
+
+TA answer:
+Try saving the first element as an int type and then save the value of the last element of the array to the first element and then save the value of the int type to the last element. The for loop should only loop through half the length of the array because we are changing the values from the start and the end at the same time and we do not want to change the value again.
