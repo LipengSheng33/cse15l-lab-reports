@@ -18,7 +18,7 @@ Step 5: copy the SSH key and type in "git clone" plus the SSH key and you will s
 
 <img width="759" alt="Screen Shot 2023-05-22 at 5 39 07 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/b3e98a3a-bb1b-4e71-85b6-3a7452741e3d">
 
-Step 6: use ```<ls>``` command to see what is inside the current repository and type in "cd lab7" to go to the lab7 file and check what is inside lab7 using ls command like this:
+Step 6: use ```<ls>``` command to see what is inside the current repository and type in ```<cd lab7>``` to go to the lab7 file and check what is inside lab7 using ls command like this:
 
 <img width="421" alt="Screen Shot 2023-05-22 at 5 41 43 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/aed1b67b-f9d2-43f6-808e-ca311ff2fb37">
 
