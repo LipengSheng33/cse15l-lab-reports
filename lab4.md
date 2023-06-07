@@ -66,7 +66,7 @@ go into this repository like this:
 
 and copy the SSH key.
 
-Step 15: go back to the terminal and type in command "git remote add 123 git@github.com:LipengSheng33/lab7-result.git" and then command "git push 123" and you will see result like this: 
+Step 15: go back to the terminal and type in command ```<git remote add 123 git@github.com:LipengSheng33/lab7-result.git>``` and then command ```<git push 123>``` and you will see result like this: 
 
 <img width="668" alt="Screen Shot 2023-05-22 at 6 57 10 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/7533be70-2df5-437c-9dfb-023c132d0174">
 
