@@ -26,7 +26,7 @@ Step 7: check the path of current directory using pwd command like this:
 
 <img width="332" alt="Screen Shot 2023-05-22 at 5 54 29 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/55073680-c04f-46bc-8352-9ec2ed0f823f">
 
-Step 8: from Step 6, we know there is test.sh file that can test the java documents in lab7 and from Step 7, we know the path of lab7. Then we just type in "bash test.sh" plus the path of lab 7 to test the java files in lab7 and we will see result like this:
+Step 8: from Step 6, we know there is test.sh file that can test the java documents in lab7 and from Step 7, we know the path of lab7. Then we just type in ```<bash test.sh>``` plus the path of lab 7 to test the java files in lab7 and we will see result like this:
 
 <img width="732" alt="Screen Shot 2023-05-22 at 5 57 23 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/001fca5a-ef5a-47cd-ad1e-804d0e0679fd">
 
