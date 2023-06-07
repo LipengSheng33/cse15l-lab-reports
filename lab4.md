@@ -22,7 +22,7 @@ Step 6: use ```<ls>``` command to see what is inside the current repository and 
 
 <img width="421" alt="Screen Shot 2023-05-22 at 5 41 43 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/aed1b67b-f9d2-43f6-808e-ca311ff2fb37">
 
-Step 7: check the path of current directory using pwd command like this:
+Step 7: check the path of current directory using ```<pwd>``` command like this:
 
 <img width="332" alt="Screen Shot 2023-05-22 at 5 54 29 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/55073680-c04f-46bc-8352-9ec2ed0f823f">
 
