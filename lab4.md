@@ -2,7 +2,7 @@ Step 1: log into my ieng6 account in the terminal, and you will see something li
 
 <img width="819" alt="Screen Shot 2023-05-22 at 5 31 41 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/2973917d-0d7d-493a-91a0-6dff61d8d905">
 
-Step 2: search [link](https://github.com/ucsd-cse15l-s23/lab7) in the browser and you will see something like this:
+Step 2: open [lab7](https://github.com/ucsd-cse15l-s23/lab7) in the browser and you will see something like this:
 
 <img width="1302" alt="Screen Shot 2023-05-22 at 5 47 42 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/6af894f2-1c88-42a6-9da7-1da7e0aca183">
 
