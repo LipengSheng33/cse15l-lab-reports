@@ -30,7 +30,7 @@ Step 8: from Step 6, we know there is test.sh file that can test the java docume
 
 <img width="732" alt="Screen Shot 2023-05-22 at 5 57 23 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/001fca5a-ef5a-47cd-ad1e-804d0e0679fd">
 
-Step 9: we found out that there is 1 failure and the merge method in the ListExamples.java document on line 42 went wrong and now we just need to go ahead and fix the issue using vim. We first type in "vim ListExamples.java" to open the java file like this:
+Step 9: we found out that there is 1 failure and the merge method in the ListExamples.java document on line 42 went wrong and now we just need to go ahead and fix the issue using vim. We first type in ```<vim ListExamples.java>``` to open the java file like this:
 
 <img width="461" alt="Screen Shot 2023-05-22 at 6 03 54 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/496495aa-eb2a-40f4-8d7c-2dd5ca87b2fc">
 
