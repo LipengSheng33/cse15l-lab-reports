@@ -12,7 +12,7 @@ Step 3: log into my ieng6 account in the terminal with password this time like t
 
 Step 4: run ```<mkdir .ssh>``` in the terminal, which creates a ssh directory in my ieng6 account.
 
-Step 5: log out my ieng6 account by typing in ```<exit>``` and press ```<enter>```.
+Step 5: log out my ieng6 account by typing in ```<exit>``` and pressing ```<enter>```.
 
 Step 6: scroll up and copy the path after the sentence ```<Your public key has been saved in>``` and my path was ```<C:\Users\lsheng/.ssh/id_rsa.pub>```.
 
