@@ -14,7 +14,7 @@ Step 4: click on the green bottom that says code and you will see something like
 
 <img width="400" alt="Screen Shot 2023-05-22 at 5 30 48 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/da92a13e-632b-46e4-a607-88a47717494c">
 
-Step 5: copy the SSH key and type in "git clone" plus the SSH key and you will see something like this:
+Step 5: copy the SSH key and type in ```<git clone>``` plus the SSH key and you will see something like this:
 
 <img width="759" alt="Screen Shot 2023-05-22 at 5 39 07 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/b3e98a3a-bb1b-4e71-85b6-3a7452741e3d">
 
