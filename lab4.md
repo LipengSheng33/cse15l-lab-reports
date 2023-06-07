@@ -38,7 +38,7 @@ and we will open up a new window like this:
 
 <img width="642" alt="Screen Shot 2023-05-22 at 6 05 00 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/09507db5-d1f6-4cd8-8bab-4e33289451f8">
 
-Step 10: As prompted by the comment of this code, we just need to change index1 to index2 on line 42 of this file, so we hover over to line 42 and move the cursor until it is on top of "1" and press ```<X>``` to delete the "1" under the cursor like this:
+Step 10: As prompted by the comment of this code, we just need to change index1 to index2 on line 42 of this file, so we hover over to line 42 and move the cursor by pressing ```<J>``` to go down and ```<L>```until it is on top of "1" and press ```<X>``` to delete the "1" under the cursor like this:
 
 <img width="425" alt="Screen Shot 2023-05-22 at 6 13 10 PM" src="https://github.com/LipengSheng33/cse15l-lab-reports/assets/130394449/2b39cc33-59ea-403f-9dab-b60664ece3d5">
 
